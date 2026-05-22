@@ -58,25 +58,6 @@ iOS developer from Uzbekistan, currently based in Naples, Italy. I build apps th
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/needsomevibe">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=needsomevibe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=needsomevibe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=needsomevibe&theme=tokyonight&hide_border=true)](https://github.com/needsomevibe)
-
-</div>
-
----
-
 ## 💬 Let’s Connect
 
 I’m always interested in discussing iOS development, SwiftUI best practices, MVVM architecture, or immigration tech solutions. Feel free to reach out!
