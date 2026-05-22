@@ -62,11 +62,16 @@ iOS developer from Uzbekistan, currently based in Naples, Italy. I build apps th
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=needsomevibe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+<a href="https://github.com/needsomevibe">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=needsomevibe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=needsomevibe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=needsomevibe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=needsomevibe&theme=tokyonight&hide_border=true)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=needsomevibe&theme=tokyonight&hide_border=true)](https://github.com/needsomevibe)
 
 </div>
 
