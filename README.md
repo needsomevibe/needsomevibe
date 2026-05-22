@@ -1,112 +1,33 @@
-# Hi there, I’m Marsel 👋
+<h1 align="center">Hi 👋, I'm Marsel</h1>
+<h3 align="center">IOS developer from Uzbekistan, based in Italy, Naples</h3>
 
-<div align="center">
-  
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/ios/)
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=needsomevibe&label=Profile%20views&color=0e75b6&style=flat" alt="needsomevibe" /> </p>
 
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=needsomevibe" alt="needsomevibe" /></a> </p>
 
-## 🚀 iOS Developer | Building Immigration Tech Solutions
+- 🔭 I’m currently working on [**Case Tracker** - iOS app helping thousands track their USCIS/NVC immigration cases]([private repo])
 
-I’m passionate about creating intuitive mobile applications that solve real-world problems. Currently focused on building tools that help people navigate complex immigration processes.
+- 🌱 I’m currently learning **Advanced SwiftUI animations, Async/Await patterns, iOS performance optimization**
 
-### 🔭 What I’m Working On
+- 👯 I’m looking to collaborate on **Open-source iOS apps, Immigration tech solutions, Developer tools**
 
-- **Case Tracker** - iOS app helping thousands track their USCIS/NVC immigration cases
-- Building scalable backend APIs with FastAPI and PostgreSQL
-- Implementing real-time push notifications for case updates
+- 🤝 I’m looking for help with **Marketing strategies for immigration tech apps**
 
-### 🌱 Currently Learning
+- 💬 Ask me about **Swift, SwiftUI, iOS development, MVVM architecture**
 
-- Advanced SwiftUI animations and transitions
-- iOS performance optimization techniques
-- Modern async/await patterns in Swift
-- Backend scalability and deployment strategies
+- 📫 How to reach me **miorauz@gmail.com**
 
-### 👯 Open to Collaborate On
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/marsel-khasanov-15b2b8321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marsel-khasanov-15b2b8321" height="30" width="40" /></a>
+</p>
 
-- Open-source iOS applications
-- Immigration tech solutions
-- Developer tools and productivity apps
-- Projects that make a real-world impact
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-### 💼 Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=needsomevibe&show_icons=true&locale=en&layout=compact" alt="needsomevibe" /></p>
 
-**Mobile Development**
-- ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-- ![SwiftUI](https://img.shields.io/badge/SwiftUI-0088FF?style=flat-square&logo=swift&logoColor=white)
-- ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=uikit&logoColor=white)
-- ![Combine](https://img.shields.io/badge/Combine-FA7343?style=flat-square&logo=swift&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=needsomevibe&show_icons=true&locale=en" alt="needsomevibe" /></p>
 
-**Backend Development**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools & Platforms**
-- ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-- ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-
-### 🎯 Current Projects
-
-<table>
-<tr>
-<td width="50%">
-
-#### 📱 Case Tracker
-iOS app for tracking USCIS and NVC immigration cases
-
-**Features:**
-- ✅ Real-time case status updates
-- 📊 Timeline visualization
-- 🔔 Push notifications
-- 🎨 SwiftUI + MVVM architecture
-
-**Tech:** Swift, SwiftUI, Combine, FastAPI
-
-[![Repo](https://img.shields.io/badge/View_Repo-0088FF?style=flat-square&logo=github&logoColor=white)](https://github.com/needsomevibe/Case-Tracker-)
-
-</td>
-</tr>
-</table>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=needsomevibe&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0088FF&icon_color=0088FF&text_color=333333&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=needsomevibe&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0088FF&text_color=333333&langs_count=6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=needsomevibe&theme=default&hide_border=true&background=ffffff&ring=0088FF&fire=0088FF&currStreakLabel=333333&sideNums=333333&currStreakNum=0088FF&sideLabels=333333)
-
-</div>
-
-### 📫 Get in Touch
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:casetrackerapp@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/needsomevibe)
-
-💬 **Ask me about:** Swift, SwiftUI, iOS Development, MVVM Architecture, FastAPI
-
-</div>
-
----
-
-<div align="center">
-
-⚡ **Fun fact:** I built Case Tracker to help people (including myself) navigate the complex US immigration system
-
-![Profile Views](https://komarev.com/ghpvc/?username=needsomevibe&color=0088FF&style=flat-square)
-
-⭐️ From [needsomevibe](https://github.com/needsomevibe)
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=needsomevibe&" alt="needsomevibe" /></p>
 
