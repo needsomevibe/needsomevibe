@@ -13,6 +13,26 @@
 
 I’m passionate about creating intuitive mobile applications that solve real-world problems. Currently focused on building tools that help people navigate complex immigration processes.
 
+### 🔭 What I’m Working On
+
+- **Case Tracker** - iOS app helping thousands track their USCIS/NVC immigration cases
+- Building scalable backend APIs with FastAPI and PostgreSQL
+- Implementing real-time push notifications for case updates
+
+### 🌱 Currently Learning
+
+- Advanced SwiftUI animations and transitions
+- iOS performance optimization techniques
+- Modern async/await patterns in Swift
+- Backend scalability and deployment strategies
+
+### 👯 Open to Collaborate On
+
+- Open-source iOS applications
+- Immigration tech solutions
+- Developer tools and productivity apps
+- Projects that make a real-world impact
+
 ### 💼 Tech Stack
 
 **Mobile Development**
@@ -74,11 +94,15 @@ iOS app for tracking USCIS and NVC immigration cases
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:casetrackerapp@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/needsomevibe)
 
+💬 **Ask me about:** Swift, SwiftUI, iOS Development, MVVM Architecture, FastAPI
+
 </div>
 
 ---
 
 <div align="center">
+
+⚡ **Fun fact:** I built Case Tracker to help people (including myself) navigate the complex US immigration system
 
 ![Profile Views](https://komarev.com/ghpvc/?username=needsomevibe&color=0088FF&style=flat-square)
 
